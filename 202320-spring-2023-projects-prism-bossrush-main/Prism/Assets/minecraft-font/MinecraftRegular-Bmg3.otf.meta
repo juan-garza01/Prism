@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d3b53c7bebed249c6a3c7c166130c5be
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Minecraft
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 027b93a18a80e463babc647969e7b84d, type: 3}
+  - {fileID: 12800000, guid: 039ea221f30a14da2be08ddfc0eba9df, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6614 @@
+fileFormatVersion: 2
+guid: 64d51c783539eb244871bc271ecd6bc4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: therionSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b019725a2aafe5f4d80c310e8bb7c49c
+      internalID: 633455692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 484
+        width: 30
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1035eed334a93314a84817633ec4fcd1
+      internalID: 1487999791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 481
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c51446e3552b840a058d40620f4ef7
+      internalID: 2019812867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 482
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655ed6ee675ebf34f924af59865d9d93
+      internalID: 1856794691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 478
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2576f280d1ee66643997109a8ee50ae5
+      internalID: -366645232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c42f4d301902c42ab72b5379f62163
+      internalID: 1561012539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 484
+        width: 30
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0658ea279b17c4f880fc8639ba04de
+      internalID: -1481059189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 481
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9804fcabcdeb06a4588edb0b746f5221
+      internalID: 1042711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 482
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803d91ad7f9b94744b82fe1d2909d08a
+      internalID: -2128270103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 478
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cb0f3e93920c849899072dac468daa
+      internalID: 1253614644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095aec732e2c12e448fa2176d53bc050
+      internalID: 1814911595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 479
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8981bbaad67a92e4fa8dc55e56e815d1
+      internalID: -1623393917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 481
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d851c7108a550409b0ab74555eea21
+      internalID: 1117780191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 481
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c536cb4821a10439d8e3e23e2622e8
+      internalID: -1406461095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 482
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaf4e00aedf4b744ad50470a8a3205f
+      internalID: -322239220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 482
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c3836e011eb89458dd96e11c1b5019
+      internalID: 1197629910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 482
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4b4ae6f066391448ff4f271f3000da
+      internalID: -1359048238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 481
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae95ae4b35673c49bba43f2d5f6f8eb
+      internalID: -258248712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 479
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51cdc7574ea5084d83de2fba6f39d74
+      internalID: -1180071098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 477
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad79a873e51f0c0469c670add0943eca
+      internalID: 2055897807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 444
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e03b755b332ae43acdee5f2909bf49
+      internalID: -548778706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 446
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806640ac1444c5842abb6bb50e262f8f
+      internalID: 759413163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 446
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272ce5914312c254fafbcd912edf75a6
+      internalID: 1355788759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 447
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01897cd81e1a93744b6332c8ab837958
+      internalID: -1662832753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 447
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe4d4817b0a0e4980394387550bb6f
+      internalID: -1992230001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 447
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dbed334b028484099801be67a67e9c
+      internalID: -210249992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 446
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415b864456a8abe43bc1dccf4b1c15ab
+      internalID: -2057749006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 444
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee662d35b828c948ab73168f6ea41fc
+      internalID: 234236498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 445
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122a7ec9b3d90dd4fa4c88b16f26dd07
+      internalID: 1666634379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 445
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1536f40ba394a74fa2286056d187761
+      internalID: -832110115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 442
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f92de74e983c1d469f965097328a114
+      internalID: 239961058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 442
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89c940770c2cbb498152e73f232d39d
+      internalID: 407881675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 451
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6f60360636d55478c2444c9c8b3b03
+      internalID: -1364789946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 451
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cfa02c792506e41a82ec29f19c07be
+      internalID: 1398827266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 451
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db762ff6239c89541b671b467d3a2013
+      internalID: 1330870353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 451
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b443144fe5caad848a930e05041b0ebf
+      internalID: -107223119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 451
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec39e079dc0d42247820095c6d77c6e3
+      internalID: -1597319986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 451
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5383f93724d6f8748a118a8232bd819a
+      internalID: -431395760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 444
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2b49216ddb20d408c90285955d3f01
+      internalID: 297402466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 438
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde14d73fcdd3024080c221a05caf49a
+      internalID: 576914092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 446
+        width: 39
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfad49ff1d410f949890064d813fa065
+      internalID: -1806294901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 408
+        width: 40
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911cad9c240ec584abc47e3b1786da09
+      internalID: -1079936868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 408
+        width: 37
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe70cac1f0344994198df65829a1e6b7
+      internalID: 2063624027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 408
+        width: 35
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d04acae23acc214a9d9396c3cf18569
+      internalID: -1525284381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 407
+        width: 36
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63001b601a254394f8d70e0ab237656d
+      internalID: 1834926791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 405
+        width: 37
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae36c20d42ec9ee40932505382933f72
+      internalID: -2131669202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 403
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84077f0e3e187b4db232b8234d9908a
+      internalID: -1635784942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 405
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bc0df2ad62e214ebced83933aae871
+      internalID: -535109246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 399
+        width: 26
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61ac61ee2ce9da4798674d3fba0bc01
+      internalID: 1657352124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 407
+        width: 39
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717e332ec3893084aa20a43f7cc86f0f
+      internalID: 1632499402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 408
+        width: 40
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4945cb623d3e54d9a372b13934734f
+      internalID: 116090583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 408
+        width: 37
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a24168f0a6a19d4cb2f126f15217573
+      internalID: 1719459904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 408
+        width: 35
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7280dce82db0a48b754d395c047689
+      internalID: 402857002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 407
+        width: 36
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46847015e063fef4193a76aeed7758f4
+      internalID: 1970558905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 405
+        width: 37
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe572414d7c62f840abeae8aa743e4fe
+      internalID: 1363321044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 364
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b5a51396bef124aa081e4159bf3efc
+      internalID: -201146092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 365
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831f0f9f7fa15d749ba78f376dd11f7b
+      internalID: -1676231868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 366
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0f0f67e7a7d6249b9237cb53dcf9a3
+      internalID: 2062194939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 366
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78ab77d9c164ee4c839be877990e623
+      internalID: -1784699596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 365
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0493a39e3dfa8e4ba88b93668370e42
+      internalID: -1096083380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 364
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fd2c6fbe185c840ac334ab59b324b7
+      internalID: 1292386056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 365
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c528626a0c80f2748ad445d7ffd739c7
+      internalID: -1684621509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 366
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82039ee4ba82a2a4189d7ee5e59a842d
+      internalID: -805090608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 366
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b31c19cf68cf847a813216bfc53fef
+      internalID: 2103842630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 365
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0327d98c0a84d42979db0e66c0bc4b
+      internalID: 1276873735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 367
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f20ab776a7a77f42b1da1ba59cf3a4b
+      internalID: -479320490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 367
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4da239f42d843d43968ceb0d847bea0
+      internalID: -816659519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 364
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a99697fd32d614c8bc17c3881f90d3
+      internalID: -1722509781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 364
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eb35e0040d6be4c97655277ab6215a
+      internalID: 256462617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 364
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550fd7f8b0cbb5641a4db80d53689d94
+      internalID: -425237342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 364
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a88cd748de834040b3feeca0bfe1d08
+      internalID: -1527761411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 364
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fc8e813af95fd4eacc4f9f61ada905
+      internalID: 2096937445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 364
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a2cc8936c6cac438b1a8ff5c18d1a1
+      internalID: -1082991591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 364
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9317a31ec2caeed46a64e087778b6ffd
+      internalID: 549948288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 364
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2eb6568bc8b324a93950ab6d829e90
+      internalID: 1741917020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 330
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0d54f6674d27d4eaf9ea51a200d82c
+      internalID: -2034111064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 330
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a679fc2d5e9d74dae5c4a7dc0eb2df
+      internalID: -692941746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 329
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad0f73255af234c8c286efb5e681b1
+      internalID: -1174000351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 329
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bf66fab21b0ec4d80c57da0026b941
+      internalID: -1653021607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 350
+        width: 32
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90a4a52acad3504985ec2f40da50acf
+      internalID: 573437101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 350
+        width: 32
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083247501a59a7040b9c567a958d8378
+      internalID: 116815136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 331
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a2065c4cbfaff4c95b0a5e661639cb
+      internalID: 155339618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 331
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8acaedd4063b9a429089aa8d0741fe1
+      internalID: 1685215732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 331
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936bc83e2d608004bb0c12a75ebfc0e6
+      internalID: 1334323029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 331
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8694a58d3e66444aaad1d570d33f53f
+      internalID: 1547683861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 331
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa69e8b1ad9e2d2408b8ce3f3dcc65a1
+      internalID: -1701697429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 331
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb31b909c73554847864c370f506539f
+      internalID: 407068308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 331
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae2a75eec38c294481b798e143aae65
+      internalID: 1851232217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 331
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdd050ee7e6b8b458ae33dd51dba330
+      internalID: 1518408578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 329
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ba5dcf2c977e947b414852aab70273
+      internalID: 35470396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 329
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ced84b4164b4604c8b57e0cd6b4023a
+      internalID: -1480739960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 329
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d68048dc0dee948bbb499d87b00bd1
+      internalID: 725001264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 329
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f8fc96e79e73c4a8c2b1882682532e
+      internalID: -981069649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 329
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8661dd60872ac145b5e0a6aee3152c9
+      internalID: -742252860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 329
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a7ec8f31a6c0048971756c5fc49dfc
+      internalID: 909234296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 329
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ff8dc8ae2452e48995dd0a971888fb
+      internalID: -1829009600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 294
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf5e9d8ea8fddd4a98747ef7ebe2203
+      internalID: 953970554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 294
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea15c58be6e906439aa8c1d2004ca79
+      internalID: 84791238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 294
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7583f62e9a144844aec8ac6f97e1b15
+      internalID: 2114376359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 294
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612fa16d60c6da41914d4181190024f
+      internalID: -672602888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 294
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e2c324e3140a64f941db7dcfb775bd
+      internalID: 1878447627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 294
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e53cd0285f78964a8df713a30eab955
+      internalID: 1653711145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 294
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bfc8fdd9e88fd47b21c6eaea399a52
+      internalID: 625458272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 294
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dc1a36db521ed428cdbf353d413b6b
+      internalID: -601156548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 294
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffc9b7cbe9ed80458e3304143319737
+      internalID: -168188100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 294
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eed07dcd53c564fac1def727aeefec
+      internalID: 1107766512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 294
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b383b04e7f202b4db1739f7caf841b0
+      internalID: -1117902122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 294
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bf5eecdb35f9949a226bad2d094c3f
+      internalID: -473861976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 294
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ff4314eb4b44a42adcaf33b61a046c
+      internalID: 978294025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 294
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382090cbe34586247a2d49e4e12100cd
+      internalID: -1490172188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 294
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baac5057d0d25784c84f363407e1c139
+      internalID: 2108682190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 294
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887717551bced5c45bb3bf5eaab5bb18
+      internalID: -940030118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 294
+        width: 24
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d725f33c849e8648896645d013671a9
+      internalID: -577391205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 294
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310576969b9a1574c9663682581983c8
+      internalID: 1620634215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 294
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecffae2b3fd7db94c823e3cfabf2a95a
+      internalID: -311071917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 294
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4422913847dca348a0b987ceb152bf5
+      internalID: -264634596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 294
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d15d17f9d051aa4bb5c80923d654619
+      internalID: -1111566029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 295
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e24dbca8d18e8449650aeebef2f7d2
+      internalID: -1637850727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 295
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e1edad0d47c36449a8cdcbca0fdc89
+      internalID: 2065212568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 294
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea62e82c3e43dcc4c95bcc6e710fb79a
+      internalID: -611148706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 260
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb98827d2c849d43925d8acc213dfa5
+      internalID: -44346879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 260
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5087290359bb1149b14e5bce256e42d
+      internalID: 786952591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 259
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64b0a50f6b0a8d4f86acecd7b7e76c1
+      internalID: 1313238272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 259
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d321b64cab75042858e58884f7d941
+      internalID: 1708256845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 259
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd30b24664f525479ca3c3e7f6a65b5
+      internalID: -1154761401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 259
+        width: 23
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f87731382de7740bea3a329bd5ce99
+      internalID: 451612703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 259
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bd9e54a4ab76f4b840e325a3bc824e
+      internalID: -1626857963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 259
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e8063fe953f8a44ab174df45d74880
+      internalID: 384826228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 259
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f637331a41b4524b87b63471978a5c4
+      internalID: -972424930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 259
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924546a350ce4424db18581f6b183e1a
+      internalID: 1066735423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 259
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d3e2d29906a314c850abbdb2d64655
+      internalID: 2014493676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 259
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856f826f59c905c45b3ec43287166b11
+      internalID: -47974796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 277
+        width: 33
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eecb0c9c4f90e547a4e8eb1c29f3e52
+      internalID: -344085355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 277
+        width: 33
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fcd94e4c1a23941b5e71a9b54d91c1
+      internalID: -1896848025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 259
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5184f11ef13745e4f898c5328176a16c
+      internalID: -868864003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 259
+        width: 22
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd95692bf2e2894e81d75b6d0039413
+      internalID: 1127221168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 259
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9b4a9ab115025429c323e51af0bf28
+      internalID: 427596000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 259
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a00def211654a7409d103c46c42677a
+      internalID: 1174022546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 267
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af7ef83e16adb547aab2f63f9097a38
+      internalID: 1251460079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 267
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44a6665c68a7284fa6187e002bf5398
+      internalID: 13014917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 266
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d26771ccbe6c547be2bc66cae42302
+      internalID: -747158817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 266
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c132853010947408209249cf1914d4
+      internalID: 982027986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccddd999bd1ffc4438b7cec886ac21df
+      internalID: 1112571536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 224
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d7e9054126f3342a44fb8aeae43f96
+      internalID: 1606914847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 224
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29aa8770ae12334e82bd255f17a6a82
+      internalID: 203916534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 224
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c862b6097d0ef42aef8e2fd429aaaa
+      internalID: -1679206591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 224
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7bec0a0423f8649858d995f38865cd
+      internalID: 297222867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 224
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daee73847eeb6394594d0f46605d3e7f
+      internalID: -1117723167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 224
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904a69a88aeab4f4a856d7cc26b8ed49
+      internalID: 1329928437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 224
+        width: 21
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42645ea946a1d474bac35c1722ecfdce
+      internalID: -470634947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 227
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33f701cb1e473e49a6b3dc534eb6c21
+      internalID: 651553134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 225
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bce702d3b85b242a5be003e81e2558
+      internalID: 1092613176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 224
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2467bfc76948e7547866b229c3bf5213
+      internalID: -561119581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 227
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a5419175e146847a7955cd879e5c15
+      internalID: 1510659260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 225
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbd8a71b041e434c939b42244f4f8a7
+      internalID: 1473691940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 224
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88deec4412c66994cb81834233554914
+      internalID: -377451834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 227
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0428015c6a5581a49931ea1bcfaec147
+      internalID: -1727323465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 225
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811244a90c7e0db4c84e92f4331a802f
+      internalID: 980341047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 224
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9014bd70691a82946af968654d52a5dd
+      internalID: 1051126777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 227
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b914d48e51a9e458cc0b26f81ac46b
+      internalID: 1860520427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 225
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a53050795427a40810616b7d498cb8
+      internalID: -1430325699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 224
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c62dbdbd72e0641adfbd8541844a66
+      internalID: 1056743288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 227
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb661cad574bfb4e87f89b7ad0eeda7
+      internalID: -1028654691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 226
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b777d8728d4ef4eb7a0d76fd2ad3ac
+      internalID: -179690592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 225
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97dd177554824848afade028122ca7b
+      internalID: -1708226502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 227
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d602584e8784fab448c259ba984dd85a
+      internalID: 1251293804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 226
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2988c7101b41f4caaf4cd68891c78a
+      internalID: -1863163493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 225
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443d24f2f214228469bd22375de6a2dd
+      internalID: -834474080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f647b7d0e7444584b801f2de47fcc557
+      internalID: 696600446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64ffe3e84a4a1442a6a252c09e9ea3f
+      internalID: 103399696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 190
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bca56e8c9eb4b48925c9eb6dbd2b74
+      internalID: 242392693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 192
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faea5a65aecebf64cbbc38bfdb31fe70
+      internalID: -1693564408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 191
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c04f323c9fd5844a97bd608eccbce8
+      internalID: -1903036845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 190
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a3c00839632024ba477320a8d2c413
+      internalID: 2127843471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 190
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279ed5a3ad37f354fa28e93b9243d635
+      internalID: -1525515046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 189
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa766d631dd96e439fdf086a71f7591
+      internalID: -572769669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 188
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94811c2acc3d3ab4cbb25ee2c7839c3f
+      internalID: 1993652281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 191
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676c9ca0b6be588418cd50ab0f29e272
+      internalID: -1692176480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 190
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b63801acda42e141b144ee3cd120e6b
+      internalID: 1035085823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 189
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb009d42695d2554eb7b9ea7116b2c9e
+      internalID: -600599298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 190
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec042aca0078114fbfef06ff27a3b62
+      internalID: -579530472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 189
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed7368d17569f84991a53450f10c9e9
+      internalID: 497728366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 188
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0d5da7e39aaab48aaa0310dfe0e5b8
+      internalID: 1348355604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 191
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8de58228c9ff6f4fb3a905e61a0b181
+      internalID: -334445502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 190
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c859a71e76c3dc428ae23b2a7c00fa3
+      internalID: 803640339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 189
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b1c3673317be41a20c242de4dea66
+      internalID: 1211392112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 190
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c71a825b8959d64a83fa0acc751b4fe
+      internalID: 260237017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 189
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e4e97f39c02f540863abdb920a5be9
+      internalID: 559570872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 188
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a6dcd68aefb4d469f50d9440c77222
+      internalID: -1204681305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 191
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ce7e36ec889694da13adce971ab97e
+      internalID: -454819564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 190
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab61e718c4d92bf409a668cf1d30b336
+      internalID: -1743683345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 153
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca38dc1fb4ecf478d394a6f243aa78
+      internalID: -92613081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 154
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d5050301e67647a3c2d1963bf95e6
+      internalID: -1598013665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 153
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f20dc9b09bbaf24aafc6aa0aabcacbc
+      internalID: 2069651824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 152
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e5ffcd22e16c458eac5b095dba0da
+      internalID: 489095705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 155
+        width: 23
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58178a23b42bbe54bb096517a895a556
+      internalID: 555234799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 154
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94f1aedcbc44984ea0c101143bb1c3d
+      internalID: -1019124777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_197
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 153
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e21a20392da4384da948baffebce424
+      internalID: 1761562711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_198
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 155
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f10db068b02fb468fb5948e568adc8
+      internalID: 1515221817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_199
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 153
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9e38aa99d54e4da5e695e9b693fb3
+      internalID: -234615366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_200
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 152
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cf5c1363d18ce42a35c6d08c7e7af0
+      internalID: 2017282380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_201
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 155
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b9487355621824d87b647c122e2eb1
+      internalID: 1499603078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_202
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 153
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3492d24702a15147a7862528f4537dd
+      internalID: 409151711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_203
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 152
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14000cc050829e74e89f3d2eaef56656
+      internalID: 1445343108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_204
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 155
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468a178e9a2a0c842adf732df5f00671
+      internalID: 1558588320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_205
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 153
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a0fee90c6623442be54e773505fd0a
+      internalID: -269376983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_206
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 152
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb69288f7fae2946bd69f4795b8464d
+      internalID: 939019143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_207
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 155
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01119904c7ed8554280e73fdf04c1d39
+      internalID: -248831703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_208
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 153
+        width: 15
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304737868748428408a7740a7a2999c8
+      internalID: 158167312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_209
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 152
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631dd5805e073694c91df32a91c2fd8d
+      internalID: 1940609854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_210
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 155
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a185633165a6f21488af9347c3306318
+      internalID: -2125058384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_211
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 154
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a99a69880b4484092feaf38bd09199
+      internalID: 1769813926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_212
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 153
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb78d026a5270d4bb7f52463429adca
+      internalID: -726144989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_213
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 155
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b4c2ccb9c036346a67363d9df85cc0
+      internalID: -1934405529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_214
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 154
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e1133f9c731b94c9281e49e418b909
+      internalID: -1724612891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_215
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 153
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8348361378428949b71a8e767f7cbbf
+      internalID: 838133954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_216
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 155
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c394f714a39a07409b5ce602d3b370f
+      internalID: -1439172269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_217
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 118
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dafc536155f1b742bc2ddb9d30c7eec
+      internalID: -757513216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_218
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 117
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd0f23cf9bf132498ea1b3369565628
+      internalID: -733261169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_219
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 119
+        width: 17
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03542aea9b212ac4088b71bf080cd5fa
+      internalID: 207079089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_220
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 118
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a93eac3a6cda5408720c418b756a0a
+      internalID: -1943841325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_221
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 117
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ba7a875d195bd48b400b2e3bdaf484
+      internalID: -968486943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_222
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 118
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c069c1c4e7f4284aa00c26ac336e0af
+      internalID: -1798787021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_223
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 117
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe16f5dbb271b84c9f0ac03d9e0d214
+      internalID: -816082597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_224
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 116
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f745065bde4b844c8c156b18a24314a
+      internalID: -956201573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_225
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 119
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597b10fa1e25efa4aa8a4c0d554a0158
+      internalID: 1341693575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_226
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 118
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8298c6c46546cc044a632a4db510daa2
+      internalID: 573954209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_227
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 117
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29a6fdb04419954187773fcb6951893
+      internalID: -2053516335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_228
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 118
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9af3f9f15a4bbf43ab4bcc43fa6f29c
+      internalID: 477834838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_229
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 117
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56afee88005306c4190e856b8fb4685c
+      internalID: -2120507660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_230
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 116
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447104c8c1b4aad4ab677bea3c10e8bd
+      internalID: -520154999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_231
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 119
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e96d77aa794a844922672e091aba99
+      internalID: 2097117424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_232
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 118
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8f846bfdbf664478da4e608acd1355
+      internalID: -1517941068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_233
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 117
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442a1ea2c24716e4cac7e076b2b0ef27
+      internalID: -1664810769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_234
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 118
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8abb03ab166254e8969d91aee6983c
+      internalID: 1439559722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_235
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 117
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd72f6970b978b4594253cd5b6e65e4
+      internalID: -650906828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_236
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 116
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2087890067a7a1448820138e1fbac0d2
+      internalID: -1825229931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_237
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 119
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1578d5f13357f42409fcf96acf4071fd
+      internalID: -1294092942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_238
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 118
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08af99f6b6adec24ea07291f73c29601
+      internalID: -1826151046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_239
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 117
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebd99a80d318894993b859f8a9520ce
+      internalID: -502690480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_240
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 118
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aeb0e9b2b0cbb4898c5135aaa148f4
+      internalID: -399549906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_241
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 81
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81125f5b67453cb4e814366db9b8a94b
+      internalID: 601333379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_242
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0973391bf8b52f74bb6b18b3554bfe35
+      internalID: 851703069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_243
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 83
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d674bff7254b8e84990408aeca312f70
+      internalID: 1096268642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_244
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 82
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cc4fa7dd733994f9b31e36661b8e0a
+      internalID: -1407365211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_245
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 81
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e6077737e8f614a848b3b919bc66a7
+      internalID: -1031441492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_246
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 81
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8065bc5226d898d4f932d7608db8561b
+      internalID: 1593346593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_247
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 81
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9453398875ebc1c488433e262cd5e310
+      internalID: -1696225784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_248
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 81
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731678aa7bf4940498423b40ced95968
+      internalID: 1224337389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_249
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 81
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7c3253efb7b18419c3ee74d7579ff6
+      internalID: -101887658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_250
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 81
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f3f64d5029d7342925b499e2b1e674
+      internalID: -1371291549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_251
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 81
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb015e46d3da081468521e128cc0f9e8
+      internalID: -844071347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_252
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 81
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bdcf5ea4be2e64e941ea3ad9b667f2
+      internalID: 757211436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_253
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 81
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac1107137ba26648a80779b6e2cd0cf
+      internalID: 1993928914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_254
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 81
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152b1980b3960c545839cdce022544be
+      internalID: 1008824911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_255
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 81
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd86823eb2ddf64fa71be833f439789
+      internalID: 1829623824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_256
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 81
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07509ac28d2be041b4db1a638594e41
+      internalID: -1937759544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_257
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 81
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e447906295a6e4ebcf68d014aeb0e7
+      internalID: -2033691540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_258
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 81
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72d8c464ea60c4e865eafd4d7dd57e
+      internalID: -860889380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_259
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 81
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b36b5dee1c5bc143a25535a50b2d894
+      internalID: -400959803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_260
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 81
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01246f2410ef01449ae37be066155b3
+      internalID: 1063773154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_261
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 81
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09de7da237d21f458de4fb1c97a1176
+      internalID: 834707693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_262
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 81
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bd95129ec739f48898a49f33c1cc4a
+      internalID: -1216125654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_263
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 81
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3db5d7eed7d244e89f4773d2788073
+      internalID: 924194924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_264
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 81
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d112cb20b0520dc4c8059b891ced5055
+      internalID: -1692666673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_265
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 81
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bc0860d83794e4bbd3135a6a6d295c
+      internalID: -730647294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_266
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 81
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f53dd24f2cf8b34e99ce18f4ef1aafc
+      internalID: -1519811261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_267
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 45
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c7e668c7b19e74b88d9744f89355c6
+      internalID: 62388286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_268
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 45
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466ec8155199ca340bdcb159b10a9e26
+      internalID: 498510466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_269
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 45
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd7e20568f32dd46816d327e963b7d9
+      internalID: 1858578815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_270
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 46
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad02ef180ee73e94cb21dc13599038fa
+      internalID: 219055083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_271
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 45
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27790e4542847f848a02429b779e94fe
+      internalID: 2043357137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_272
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 45
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4555801968af046950f56da1c585e6
+      internalID: -967208990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_273
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 46
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2f102734363c54e85e685dcd4a7398
+      internalID: -793743039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_274
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 45
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ade25cc9eca1234381a25b2d29da59e
+      internalID: 1311575509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_275
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 45
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4351f2b809b83724494cbacdf03fac1f
+      internalID: -908018817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_276
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 46
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceda41fd44d8cd5468f34dc9a572ae3b
+      internalID: -231655396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_277
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 45
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc267e72308924594acf51c133d7da
+      internalID: 1328209025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_278
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 45
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb09757285fef344a95f520d6f807b75
+      internalID: 1783642042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_279
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 46
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f3f7979660bc04b9847b4d1ab8e1ae
+      internalID: -1961448875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_280
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 45
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31fba3b4066c934690e6b96d8b4aa8a
+      internalID: -74914514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_281
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 45
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc57f984706853442aa8cb486b6cf70e
+      internalID: 816664104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_282
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 46
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80bc218b7738b04c9c0ea13903eeaef
+      internalID: 1803816337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_283
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 45
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9349868ef91c09b4d8d83c30fa36f157
+      internalID: 506821916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_284
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 45
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad1c3dd4c1d3274fa82a01cc5eb98de
+      internalID: -767949156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_285
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 46
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de784be6d31b09241b3e2f790f17a887
+      internalID: 1995205089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_286
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 45
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de7bbd794fc25b48abf7913d8b403db
+      internalID: 1824823790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_287
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 45
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8865d4868b0f15f4cb1e5250f1ab43ff
+      internalID: 1484552611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_288
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 46
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7af4b407cbe1141817d853cf71938a
+      internalID: 2050727315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_289
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 45
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704602c073e66cf42986e8b8d105bd5b
+      internalID: 2086620043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_290
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 45
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a20c3fe1429c6640b289c52ff9d43ad
+      internalID: 1785704380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_291
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 46
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaad7f772cc724468db2baf28688b7d
+      internalID: 1017927675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_292
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fb0c36c2b12ff43baf595ba9c11edf
+      internalID: -514841579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_293
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 10
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aee7f1509a51340962dda878876637
+      internalID: -1278720191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: therionSpriteSheet_294
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 10
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7701e954ddcd44e9bc01a1b6cd6d3a
+      internalID: -660508052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      therionSpriteSheet_234: 1439559722
+      therionSpriteSheet_144: 203916534
+      therionSpriteSheet_123: 1708256845
+      therionSpriteSheet_118: 2065212568
+      therionSpriteSheet_209: 1940609854
+      therionSpriteSheet_175: -572769669
+      therionSpriteSheet_124: -1154761401
+      therionSpriteSheet_25: -210249992
+      therionSpriteSheet_289: 2086620043
+      therionSpriteSheet_159: 1860520427
+      therionSpriteSheet_211: 1769813926
+      therionSpriteSheet_24: -1992230001
+      therionSpriteSheet_84: 1547683861
+      therionSpriteSheet_4: -366645232
+      therionSpriteSheet_75: -2034111064
+      therionSpriteSheet_23: -1662832753
+      therionSpriteSheet_163: -179690592
+      therionSpriteSheet_294: -660508052
+      therionSpriteSheet_32: -1364789946
+      therionSpriteSheet_213: -1934405529
+      therionSpriteSheet_78: -1653021607
+      therionSpriteSheet_95: -1829009600
+      therionSpriteSheet_47: -535109246
+      therionSpriteSheet_271: 2043357137
+      therionSpriteSheet_30: 239961058
+      therionSpriteSheet_251: -844071347
+      therionSpriteSheet_281: 816664104
+      therionSpriteSheet_152: -561119581
+      therionSpriteSheet_240: -399549906
+      therionSpriteSheet_149: -470634947
+      therionSpriteSheet_169: 103399696
+      therionSpriteSheet_164: -1708226502
+      therionSpriteSheet_202: 409151711
+      therionSpriteSheet_261: 834707693
+      therionSpriteSheet_119: -611148706
+      therionSpriteSheet_292: -514841579
+      therionSpriteSheet_285: 1995205089
+      therionSpriteSheet_247: -1696225784
+      therionSpriteSheet_157: 980341047
+      therionSpriteSheet_110: 2108682190
+      therionSpriteSheet_224: -956201573
+      therionSpriteSheet_270: 219055083
+      therionSpriteSheet_291: 1017927675
+      therionSpriteSheet_184: 803640339
+      therionSpriteSheet_20: -548778706
+      therionSpriteSheet_41: -1079936868
+      therionSpriteSheet_277: 1328209025
+      therionSpriteSheet_88: 1518408578
+      therionSpriteSheet_274: 1311575509
+      therionSpriteSheet_8: -2128270103
+      therionSpriteSheet_166: -1863163493
+      therionSpriteSheet_99: -672602888
+      therionSpriteSheet_287: 1484552611
+      therionSpriteSheet_1: 1487999791
+      therionSpriteSheet_100: 1878447627
+      therionSpriteSheet_104: -168188100
+      therionSpriteSheet_207: -248831703
+      therionSpriteSheet_210: -2125058384
+      therionSpriteSheet_227: -2053516335
+      therionSpriteSheet_196: -1019124777
+      therionSpriteSheet_73: 549948288
+      therionSpriteSheet_55: -201146092
+      therionSpriteSheet_256: -1937759544
+      therionSpriteSheet_214: -1724612891
+      therionSpriteSheet_66: -816659519
+      therionSpriteSheet_135: 1127221168
+      therionSpriteSheet_13: -1406461095
+      therionSpriteSheet_161: 1056743288
+      therionSpriteSheet_61: -1684621509
+      therionSpriteSheet_168: 696600446
+      therionSpriteSheet_229: -2120507660
+      therionSpriteSheet_221: -968486943
+      therionSpriteSheet_238: -1826151046
+      therionSpriteSheet_39: 576914092
+      therionSpriteSheet_267: 62388286
+      therionSpriteSheet_54: 1363321044
+      therionSpriteSheet_268: 498510466
+      therionSpriteSheet_253: 1993928914
+      therionSpriteSheet_108: 978294025
+      therionSpriteSheet_186: 260237017
+      therionSpriteSheet_138: 1251460079
+      therionSpriteSheet_181: 497728366
+      therionSpriteSheet_31: 407881675
+      therionSpriteSheet_36: -1597319986
+      therionSpriteSheet_197: 1761562711
+      therionSpriteSheet_134: -868864003
+      therionSpriteSheet_158: 1051126777
+      therionSpriteSheet_94: 909234296
+      therionSpriteSheet_56: -1676231868
+      therionSpriteSheet_173: 2127843471
+      therionSpriteSheet_151: 1092613176
+      therionSpriteSheet_191: -92613081
+      therionSpriteSheet_203: 1445343108
+      therionSpriteSheet_236: -1825229931
+      therionSpriteSheet_216: -1439172269
+      therionSpriteSheet_232: -1517941068
+      therionSpriteSheet_38: 297402466
+      therionSpriteSheet_97: 84791238
+      therionSpriteSheet_192: -1598013665
+      therionSpriteSheet_206: 939019143
+      therionSpriteSheet_174: -1525515046
+      therionSpriteSheet_249: -101887658
+      therionSpriteSheet_105: 1107766512
+      therionSpriteSheet_246: 1593346593
+      therionSpriteSheet_199: -234615366
+      therionSpriteSheet_19: 2055897807
+      therionSpriteSheet_46: -1635784942
+      therionSpriteSheet_208: 158167312
+      therionSpriteSheet_129: 1066735423
+      therionSpriteSheet_162: -1028654691
+      therionSpriteSheet_225: 1341693575
+      therionSpriteSheet_121: 786952591
+      therionSpriteSheet_258: -860889380
+      therionSpriteSheet_133: -1896848025
+      therionSpriteSheet_272: -967208990
+      therionSpriteSheet_215: 838133954
+      therionSpriteSheet_230: -520154999
+      therionSpriteSheet_90: -1480739960
+      therionSpriteSheet_122: 1313238272
+      therionSpriteSheet_165: 1251293804
+      therionSpriteSheet_52: 402857002
+      therionSpriteSheet_6: -1481059189
+      therionSpriteSheet_42: 2063624027
+      therionSpriteSheet_125: 451612703
+      therionSpriteSheet_103: -601156548
+      therionSpriteSheet_109: -1490172188
+      therionSpriteSheet_188: -1204681305
+      therionSpriteSheet_145: -1679206591
+      therionSpriteSheet_243: 1096268642
+      therionSpriteSheet_262: -1216125654
+      therionSpriteSheet_53: 1970558905
+      therionSpriteSheet_245: -1031441492
+      therionSpriteSheet_11: -1623393917
+      therionSpriteSheet_70: -1527761411
+      therionSpriteSheet_171: -1693564408
+      therionSpriteSheet_244: -1407365211
+      therionSpriteSheet_142: 1112571536
+      therionSpriteSheet_185: 1211392112
+      therionSpriteSheet_148: 1329928437
+      therionSpriteSheet_237: -1294092942
+      therionSpriteSheet_288: 2050727315
+      therionSpriteSheet_86: 407068308
+      therionSpriteSheet_102: 625458272
+      therionSpriteSheet_10: 1814911595
+      therionSpriteSheet_15: 1197629910
+      therionSpriteSheet_111: -940030118
+      therionSpriteSheet_83: 1334323029
+      therionSpriteSheet_182: 1348355604
+      therionSpriteSheet_283: 506821916
+      therionSpriteSheet_257: -2033691540
+      therionSpriteSheet_172: -1903036845
+      therionSpriteSheet_177: -1692176480
+      therionSpriteSheet_48: 1657352124
+      therionSpriteSheet_60: 1292386056
+      therionSpriteSheet_139: 13014917
+      therionSpriteSheet_275: -908018817
+      therionSpriteSheet_7: 1042711
+      therionSpriteSheet_26: -2057749006
+      therionSpriteSheet_113: 1620634215
+      therionSpriteSheet_204: 1558588320
+      therionSpriteSheet_77: -1174000351
+      therionSpriteSheet_112: -577391205
+      therionSpriteSheet_293: -1278720191
+      therionSpriteSheet_140: -747158817
+      therionSpriteSheet_176: 1993652281
+      therionSpriteSheet_16: -1359048238
+      therionSpriteSheet_255: 1829623824
+      therionSpriteSheet_71: 2096937445
+      therionSpriteSheet_179: -600599298
+      therionSpriteSheet_242: 851703069
+      therionSpriteSheet_0: 633455692
+      therionSpriteSheet_67: -1722509781
+      therionSpriteSheet_223: -816082597
+      therionSpriteSheet_34: 1330870353
+      therionSpriteSheet_195: 555234799
+      therionSpriteSheet_64: 1276873735
+      therionSpriteSheet_198: 1515221817
+      therionSpriteSheet_91: 725001264
+      therionSpriteSheet_89: 35470396
+      therionSpriteSheet_92: -981069649
+      therionSpriteSheet_218: -733261169
+      therionSpriteSheet_265: -730647294
+      therionSpriteSheet_167: -834474080
+      therionSpriteSheet_33: 1398827266
+      therionSpriteSheet_260: 1063773154
+      therionSpriteSheet_222: -1798787021
+      therionSpriteSheet_79: 573437101
+      therionSpriteSheet_259: -400959803
+      therionSpriteSheet_80: 116815136
+      therionSpriteSheet_45: -2131669202
+      therionSpriteSheet_220: -1943841325
+      therionSpriteSheet_27: 234236498
+      therionSpriteSheet_219: 207079089
+      therionSpriteSheet_126: -1626857963
+      therionSpriteSheet_5: 1561012539
+      therionSpriteSheet_51: 1719459904
+      therionSpriteSheet_107: -473861976
+      therionSpriteSheet_18: -1180071098
+      therionSpriteSheet_180: -579530472
+      therionSpriteSheet_282: 1803816337
+      therionSpriteSheet_205: -269376983
+      therionSpriteSheet_235: -650906828
+      therionSpriteSheet_62: -805090608
+      therionSpriteSheet_12: 1117780191
+      therionSpriteSheet_14: -322239220
+      therionSpriteSheet_37: -431395760
+      therionSpriteSheet_156: -1727323465
+      therionSpriteSheet_69: -425237342
+      therionSpriteSheet_21: 759413163
+      therionSpriteSheet_9: 1253614644
+      therionSpriteSheet_65: -479320490
+      therionSpriteSheet_189: -454819564
+      therionSpriteSheet_264: -1692666673
+      therionSpriteSheet_147: -1117723167
+      therionSpriteSheet_233: -1664810769
+      therionSpriteSheet_212: -726144989
+      therionSpriteSheet_269: 1858578815
+      therionSpriteSheet_81: 155339618
+      therionSpriteSheet_72: -1082991591
+      therionSpriteSheet_106: -1117902122
+      therionSpriteSheet_279: -1961448875
+      therionSpriteSheet_87: 1851232217
+      therionSpriteSheet_170: 242392693
+      therionSpriteSheet_241: 601333379
+      therionSpriteSheet_248: 1224337389
+      therionSpriteSheet_286: 1824823790
+      therionSpriteSheet_278: 1783642042
+      therionSpriteSheet_17: -258248712
+      therionSpriteSheet_22: 1355788759
+      therionSpriteSheet_200: 2017282380
+      therionSpriteSheet_28: 1666634379
+      therionSpriteSheet_263: 924194924
+      therionSpriteSheet_120: -44346879
+      therionSpriteSheet_101: 1653711145
+      therionSpriteSheet_43: -1525284381
+      therionSpriteSheet_187: 559570872
+      therionSpriteSheet_228: 477834838
+      therionSpriteSheet_85: -1701697429
+      therionSpriteSheet_29: -832110115
+      therionSpriteSheet_155: -377451834
+      therionSpriteSheet_276: -231655396
+      therionSpriteSheet_98: 2114376359
+      therionSpriteSheet_141: 982027986
+      therionSpriteSheet_2: 2019812867
+      therionSpriteSheet_117: -1637850727
+      therionSpriteSheet_160: -1430325699
+      therionSpriteSheet_114: -311071917
+      therionSpriteSheet_290: 1785704380
+      therionSpriteSheet_49: 1632499402
+      therionSpriteSheet_63: 2103842630
+      therionSpriteSheet_239: -502690480
+      therionSpriteSheet_57: 2062194939
+      therionSpriteSheet_74: 1741917020
+      therionSpriteSheet_82: 1685215732
+      therionSpriteSheet_178: 1035085823
+      therionSpriteSheet_35: -107223119
+      therionSpriteSheet_115: -264634596
+      therionSpriteSheet_266: -1519811261
+      therionSpriteSheet_116: -1111566029
+      therionSpriteSheet_58: -1784699596
+      therionSpriteSheet_150: 651553134
+      therionSpriteSheet_132: -344085355
+      therionSpriteSheet_68: 256462617
+      therionSpriteSheet_254: 1008824911
+      therionSpriteSheet_128: -972424930
+      therionSpriteSheet_190: -1743683345
+      therionSpriteSheet_226: 573954209
+      therionSpriteSheet_131: -47974796
+      therionSpriteSheet_193: 2069651824
+      therionSpriteSheet_143: 1606914847
+      therionSpriteSheet_273: -793743039
+      therionSpriteSheet_153: 1510659260
+      therionSpriteSheet_231: 2097117424
+      therionSpriteSheet_194: 489095705
+      therionSpriteSheet_127: 384826228
+      therionSpriteSheet_146: 297222867
+      therionSpriteSheet_252: 757211436
+      therionSpriteSheet_284: -767949156
+      therionSpriteSheet_59: -1096083380
+      therionSpriteSheet_130: 2014493676
+      therionSpriteSheet_183: -334445502
+      therionSpriteSheet_217: -757513216
+      therionSpriteSheet_44: 1834926791
+      therionSpriteSheet_96: 953970554
+      therionSpriteSheet_201: 1499603078
+      therionSpriteSheet_280: -74914514
+      therionSpriteSheet_3: 1856794691
+      therionSpriteSheet_250: -1371291549
+      therionSpriteSheet_40: -1806294901
+      therionSpriteSheet_136: 427596000
+      therionSpriteSheet_50: 116090583
+      therionSpriteSheet_154: 1473691940
+      therionSpriteSheet_93: -742252860
+      therionSpriteSheet_137: 1174022546
+      therionSpriteSheet_76: -692941746
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

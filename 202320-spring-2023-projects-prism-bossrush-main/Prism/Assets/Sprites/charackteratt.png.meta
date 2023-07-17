@@ -1,0 +1,1366 @@
+fileFormatVersion: 2
+guid: 6615937da51613042a0f403873ba4121
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swingdownC0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1548
+        width: 96
+        height: 168
+      alignment: 9
+      pivot: {x: 0.58, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c479cabc236d4f42812df8feb1bf53b
+      internalID: 252984407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdownC1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1522
+        width: 109
+        height: 182
+      alignment: 9
+      pivot: {x: 0.58, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad30c197b9966946aa0c46a6d8d8dd2
+      internalID: 1445385808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdownC2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1515
+        width: 120
+        height: 171
+      alignment: 9
+      pivot: {x: 0.58, y: 0.1980366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debfe16c8d7713b4883b2164c8545837
+      internalID: 1815074845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdownC3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1503
+        width: 132
+        height: 165
+      alignment: 9
+      pivot: {x: 0.57, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb8a553a9e5a2443a0afe24efd286d1
+      internalID: 736313767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdownC4
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1487
+        width: 114
+        height: 199
+      alignment: 9
+      pivot: {x: 0.55, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f42cb27ca1e38445a3d91235413e91e
+      internalID: -237505530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdownC5
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1486
+        width: 175
+        height: 218
+      alignment: 9
+      pivot: {x: 0.54, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74528719f8f649a42a02bd4ace139538
+      internalID: -4216318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdownC6
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1489
+        width: 175
+        height: 216
+      alignment: 9
+      pivot: {x: 0.52, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d8415f2d193154a88856ba3a6359ec
+      internalID: -40227815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdownC7
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1512
+        width: 127
+        height: 199
+      alignment: 9
+      pivot: {x: 0.53, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ed04f8929c0f4bbdf63250ae55bba
+      internalID: 1802986731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdown0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1286
+        width: 96
+        height: 168
+      alignment: 9
+      pivot: {x: 0.58, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1413aee9be1100245b62049eb21cd024
+      internalID: -449959884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdown1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1260
+        width: 108
+        height: 182
+      alignment: 9
+      pivot: {x: 0.58, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b5cba3d74f6d947aa79bfb4ef2905a
+      internalID: 614533648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdown2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1254
+        width: 120
+        height: 170
+      alignment: 9
+      pivot: {x: 0.58, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8750c97f5cf54ba4d88823fb355f8fd7
+      internalID: -2035122185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdown3
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1242
+        width: 132
+        height: 164
+      alignment: 9
+      pivot: {x: 0.57, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798393166150fec40a7237e988da171e
+      internalID: -731827219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdown4
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1225
+        width: 114
+        height: 199
+      alignment: 9
+      pivot: {x: 0.55, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bb87edffcd8c849a5ff73305b23b60
+      internalID: -651713272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdown5
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1224
+        width: 175
+        height: 218
+      alignment: 9
+      pivot: {x: 0.54, y: 0.29}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d643f2acc167ff42a6abba1a9bfd65e
+      internalID: 1443145004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdown6
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1227
+        width: 176
+        height: 216
+      alignment: 9
+      pivot: {x: 0.52, y: 0.27}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59be3e0eedbe61747b77fb57d5fa2944
+      internalID: -1538568327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingdown7
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1249
+        width: 128
+        height: 200
+      alignment: 9
+      pivot: {x: 0.53, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260a3c16caa0eb14bb5d7e6ddfe2c06b
+      internalID: 2137693404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingupC2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 965
+        width: 96
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f10c0d7d423ca84587ced5a5524de3a
+      internalID: 15529376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingupC0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 953
+        width: 96
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a818a209cc50a140b58e983a301cf34
+      internalID: -1942431857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingupC1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 953
+        width: 108
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01432c70c1b47ca4e871db51e9c4bd1a
+      internalID: -59107020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingupC3
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 963
+        width: 108
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe72d48fb4ed54a4d939cffe576a93a9
+      internalID: -626611548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingupC4
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 963
+        width: 114
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7c23f38016d1d45b5c14792a787d6d
+      internalID: -654232369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingupC5
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 952
+        width: 175
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c4ad532279cbe41bfbaa7b9c22e8ea
+      internalID: 2057825087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingupC6
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 952
+        width: 175
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58010c0df3148a4c9ba0f8551670891
+      internalID: 720209938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingupC7
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 952
+        width: 127
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7664d1ba2c48e459d7c551d0414461
+      internalID: 1550833135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingup2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 696
+        width: 96
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f43dc60ac42bbd40a4d30d38e61d264
+      internalID: 1804566108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingup0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 684
+        width: 96
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad4ef8fa7410104a82c3955eaf113a7
+      internalID: 1050757612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingup1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 684
+        width: 108
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ae9da59c321e14888fd1e1a6d7a809
+      internalID: 2061617500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingup3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 694
+        width: 108
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77628ca9fb824e24095cec3e05f57636
+      internalID: 1860856052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingup4
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 694
+        width: 114
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fb21ceb9f5d5540bce1095598fba41
+      internalID: 1026935308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingup5
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 683
+        width: 175
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2d654cf45263d449ad1f59e800679d
+      internalID: -415837115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingup6
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 683
+        width: 175
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d9c4fb73b007846a3cb145a9b2879a
+      internalID: 1872382540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingup7
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 683
+        width: 127
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d106fd0eeaa09418f884d238a7ab79
+      internalID: -1026707856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingsideC3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 228
+        width: 108
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a546947cf4e0149af10b73b6bf9240
+      internalID: 1486150001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingsideC0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 228
+        width: 96
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfea6f07f5c13d49a8a4c9f69619e5f
+      internalID: -1316572911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingsideC1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 228
+        width: 96
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93f93067d7bc8f4e8244f30c5d5abbf
+      internalID: 2005696804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingsideC2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 228
+        width: 108
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b635c6504347d2c48a8329a156e4d418
+      internalID: -1382051282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingsideC4
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 228
+        width: 150
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af13de6f9728b345b446122109c7e01
+      internalID: -2034836667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingsideC5
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 228
+        width: 114
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29556c803e69ea445b28413fb7eb11bb
+      internalID: 1549224635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingsideC6
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 228
+        width: 108
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff75dd21fa9be04581a864bab692ee2
+      internalID: 1996068181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingsideC7
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 228
+        width: 96
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960d10412d826e4458b1cfd8dc2c6dec
+      internalID: 102133259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingside3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 108
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f78490b465f84f4a8605258235a84e0
+      internalID: -368424757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingside0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 96
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0b974f4d288774bab35927491042dc
+      internalID: 1009844153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingside1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 96
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d109329bfac1cbd428a4e9e8a0c24a45
+      internalID: -926215130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingside2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 108
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6871d400ab701644b866934d66cf9836
+      internalID: 206533189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingside4
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 150
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b03bd48defdee8448a80bd7052be834
+      internalID: 759675442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingside5
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 114
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d206badf402244ab842368b4ec142a
+      internalID: -608999767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingside6
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 0
+        width: 108
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5968aac51c2d3c74e98c547d8630e704
+      internalID: 1639204318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swingside7
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 0
+        width: 96
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5a508f06a4c6a4eaebc67c0aeb2856
+      internalID: -857635190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charackteratt_0
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ad357b65bdd354c910b1375f54b9df
+      internalID: 877092688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charackteratt_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1151
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0be34180a7b7548975dd8f790c01ba
+      internalID: -211595091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charackteratt_2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1157
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9131ae99b13a9e4ea70d46d5e4674ad
+      internalID: -142782491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charackteratt_3
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1159
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3203912d485ae71439d01340f3f75390
+      internalID: -74314405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charackteratt_4
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1151
+        width: 175
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e3d549caa3ad342bda3ea00120e392
+      internalID: -325466814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charackteratt_5
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1148
+        width: 175
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f6870d3f3393b43894a0aed2f80aa4
+      internalID: 1438715310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: charackteratt_6
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1175
+        width: 127
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca45ce2d041a5944b097dbb13eabc2b
+      internalID: 382909739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      swingupC2: 15529376
+      charackteratt_1: -211595091
+      charackteratt_36: -2052569328
+      swingsideC4: -2034836667
+      swingdownC4: -237505530
+      charackteratt_3: -74314405
+      swingside1: -926215130
+      swingsideC0: -1316572911
+      swingdown5: 1443145004
+      swingside2: 206533189
+      swingside6: 1639204318
+      swingdownC0: 252984407
+      charackteratt_49: 2127663826
+      swingup1: 2061617500
+      charackteratt_30: -801328815
+      charackteratt_45: 2043974841
+      charackteratt_9: 2066083341
+      swingup5: -415837115
+      swingdownC3: 736313767
+      charackteratt_24: -956672675
+      charackteratt_32: -948247741
+      swingsideC5: 1549224635
+      charackteratt_62: -1625164472
+      charackteratt_0: 877092688
+      swingupC0: -1942431857
+      swingside0: 1009844153
+      charackteratt_27: -2053736664
+      swingdown6: -1538568327
+      swingside3: -368424757
+      swingdown0: -449959884
+      charackteratt_71: -343506387
+      swingupC3: -626611548
+      charackteratt_31: 974266629
+      charackteratt_10: -1061337906
+      charackteratt_23: 25764387
+      charackteratt_29: 2130320959
+      swingsideC3: 1486150001
+      charackteratt_14: 947940460
+      swingdownC7: 1802986731
+      charackteratt_2: -142782491
+      swingdownC6: -40227815
+      swingup4: 1026935308
+      charackteratt_25: 578011847
+      swingdown4: -651713272
+      swingupC1: -59107020
+      swingdown7: 2137693404
+      swingsideC1: 2005696804
+      swingside5: -608999767
+      swingsideC2: -1382051282
+      swingup7: -1026707856
+      charackteratt_26: -1816798515
+      charackteratt_46: 1265490199
+      swingdownC2: 1815074845
+      swingupC4: -654232369
+      swingdown2: -2035122185
+      charackteratt_34: 121367828
+      swingupC7: 1550833135
+      charackteratt_51: 1848643059
+      swingside7: -857635190
+      charackteratt_61: 1576452788
+      swingup6: 1872382540
+      swingupC5: 2057825087
+      swingsideC6: 1996068181
+      charackteratt_48: -67924746
+      swingup0: 1050757612
+      charackteratt_8: -618320186
+      swingside4: 759675442
+      charackteratt_50: 233418484
+      swingdownC1: 1445385808
+      charackteratt_5: 1438715310
+      charackteratt_6: 382909739
+      swingupC6: 720209938
+      charackteratt_72: -1324860090
+      swingdownC5: -4216318
+      swingup2: 1804566108
+      charackteratt_47: -1900657206
+      charackteratt_4: -325466814
+      swingup3: 1860856052
+      swingdown3: -731827219
+      charackteratt_35: 1219439423
+      charackteratt_33: -557460813
+      charackteratt_12: -219243407
+      swingdown1: 614533648
+      charackteratt_11: -1304539972
+      charackteratt_13: -256423731
+      charackteratt_28: 1114359273
+      swingsideC7: 102133259
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
